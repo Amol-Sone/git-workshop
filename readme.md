@@ -14,6 +14,7 @@ This is a Table
 
 
 Item 1 | Item 2 | Item 3|
+------| ------- | ------|
 1|2|3
 
 
@@ -27,5 +28,6 @@ this is also a table
 	</td>
 
 </tr>
+
 
 
