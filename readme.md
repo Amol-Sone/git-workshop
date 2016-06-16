@@ -26,6 +26,9 @@ this is also a table
 	<td>
 	1
 	</td>
+	<td>
+	2
+	</td>
 
 </tr>
 
