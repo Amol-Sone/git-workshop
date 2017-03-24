@@ -1,3 +1,1 @@
-@MSDOCs it would be a good idea put material on how to make files, folder, web page hosting from git hub, VM streaming hosting from github, Virtual disk streming from GITHub, on this directory.  
 
-IF YOU DO NOT LIKE MY MESSAGE THEN YOU CAN DELETE IT.  
